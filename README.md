@@ -1,1 +1,1 @@
-Examople module how to generate text using OpenAI API.
+Example module how to generate text using OpenAI API.
